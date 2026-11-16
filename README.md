@@ -312,10 +312,6 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 
 
 
-\## Screenshots
-
-
-
 \### Dashboard
 
 
@@ -348,15 +344,17 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 
 
 
-!\[Swagger UI 1](docs/screenshots/swagger-ui1.png)
+!\[Swagger UI](docs/screenshots/swagger-ui1.png)
 
 
 
-!\[Swagger UI 2](docs/screenshots/swagger-ui2.png)
+!\[Swagger UI](docs/screenshots/swagger-ui2.png)
 
 
 
-!\[Swagger UI 3](docs/screenshots/swagger-ui3.png)
+!\[Swagger UI](docs/screenshots/swagger-ui3.png)
+
+
 
 
 
