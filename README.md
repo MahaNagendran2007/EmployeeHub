@@ -315,16 +315,9 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 \### Dashboard
 
 
-
-!\[Dashboard Overview](docs/screenshots/dashboard1.png)
-
-
-
-!\[Dashboard Analytics](docs/screenshots/dashboard2.png)
-
-
-
-!\[Dashboard Details](docs/screenshots/dashboard3.png)
+<img width="2836" height="1544" alt="dashboard3" src="https://github.com/user-attachments/assets/6745aaa6-595d-494b-ab8a-9fbdc308e9e3" />
+<img width="2846" height="1536" alt="dashboard2" src="https://github.com/user-attachments/assets/d7b19e29-83fa-402a-bbd5-0507a20bbc2f" />
+<img width="2840" height="1546" alt="dashboard1" src="https://github.com/user-attachments/assets/73be835b-2eee-4b24-94fb-427b49b1391b" />
 
 
 
@@ -332,11 +325,12 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 
 
 
-!\[Employee List](docs/screenshots/employee-list.png)
+<img width="2858" height="1536" alt="employee-list" src="https://github.com/user-attachments/assets/f225a2b2-b805-4a8f-8c7c-e803503e2b11" />
 
 
 
-!\[Add or Edit Employee](docs/screenshots/employee-form.png)
+<img width="1070" height="1460" alt="employee-form" src="https://github.com/user-attachments/assets/510eda84-13c7-43b6-9ff8-31f5c22dab62" />
+
 
 
 
@@ -344,15 +338,16 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 
 
 
-!\[Swagger UI](docs/screenshots/swagger-ui1.png)
+<img width="966" height="1152" alt="swagger-ui3" src="https://github.com/user-attachments/assets/e0ce927a-faf1-4990-b75a-9fac5735635a" />
 
 
 
-!\[Swagger UI](docs/screenshots/swagger-ui2.png)
+
+<img width="1460" height="968" alt="swagger-ui2" src="https://github.com/user-attachments/assets/d910e38e-432c-40a0-94f4-3473a32355e1" />
 
 
 
-!\[Swagger UI](docs/screenshots/swagger-ui3.png)
+<img width="1456" height="1554" alt="swagger-ui1" src="https://github.com/user-attachments/assets/0bf30971-206f-46a3-9eb5-4954f14015ce" />
 
 
 
