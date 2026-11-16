@@ -1,0 +1,11 @@
+# Local development MongoDB only. No credentials are set, so bind it to localhost and do not expose it publicly.
+services:
+  mongo:
+    image: mongo:7.0
+    container_name: employeehub-mongo
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - employeehub-data:/data/db
+volumes:
+  employeehub-data:
