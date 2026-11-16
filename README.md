@@ -315,9 +315,9 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 \### Dashboard
 
 
-<img width="2836" height="1544" alt="dashboard3" src="https://github.com/user-attachments/assets/6745aaa6-595d-494b-ab8a-9fbdc308e9e3" />
-<img width="2846" height="1536" alt="dashboard2" src="https://github.com/user-attachments/assets/d7b19e29-83fa-402a-bbd5-0507a20bbc2f" />
 <img width="2840" height="1546" alt="dashboard1" src="https://github.com/user-attachments/assets/73be835b-2eee-4b24-94fb-427b49b1391b" />
+<img width="2846" height="1536" alt="dashboard2" src="https://github.com/user-attachments/assets/d7b19e29-83fa-402a-bbd5-0507a20bbc2f" />
+<img width="2836" height="1544" alt="dashboard3" src="https://github.com/user-attachments/assets/6745aaa6-595d-494b-ab8a-9fbdc308e9e3" />
 
 
 
@@ -338,7 +338,7 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 
 
 
-<img width="966" height="1152" alt="swagger-ui3" src="https://github.com/user-attachments/assets/e0ce927a-faf1-4990-b75a-9fac5735635a" />
+<img width="1456" height="1554" alt="swagger-ui1" src="https://github.com/user-attachments/assets/0bf30971-206f-46a3-9eb5-4954f14015ce" />
 
 
 
@@ -347,7 +347,8 @@ Import `postman/EmployeeHub.postman\_collection.json`. It defines a `baseUrl` va
 
 
 
-<img width="1456" height="1554" alt="swagger-ui1" src="https://github.com/user-attachments/assets/0bf30971-206f-46a3-9eb5-4954f14015ce" />
+<img width="966" height="1152" alt="swagger-ui3" src="https://github.com/user-attachments/assets/e0ce927a-faf1-4990-b75a-9fac5735635a" />
+
 
 
 
